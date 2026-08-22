@@ -1,11 +1,12 @@
+--extra-index-url https://pytorch.org
+torch==2.2.0+cpu
+torchvision==0.17.0+cpu
 streamlit
 python-dotenv
-langchain-classic
-langchain-community
 langchain-core
-langchain-huggingface
+langchain-community
 langchain-text-splitters
-huggingface-hub
+langchain-huggingface
 sentence-transformers
 faiss-cpu
 pypdf
